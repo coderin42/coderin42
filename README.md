@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @coderin42
 - 👀 I’m interested in computer science, especially network architecture and network security, modeling and simulation of systems.
 - 🌱 I’m currently learning to work in a team on a bigger project.
+- ❤️ very much into Elasticsearch, Docker and Kubernetes stuff
 - > twitter @coderin42
 
 <!---
