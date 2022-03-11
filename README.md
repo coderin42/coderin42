@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @coderin42
 - 👀 I’m interested in computer science, especially network architecture and network security.
-- 🌱 I’m currently writing my bachelor thesis about a P4-SFC-orchestrator and creating a visualization system for the orchestrated network
+- 🌱 I’m currently writing my bachelor thesis about a P4-SFC-orchestrator and creating a visualization system for SFC infrastructure. 
+- 🌎 I am also setting up an Elasticsearch database for a weather data research project, converting weather data from different formats to JSON and populating it with weather data and writing an useful request library for the users.
 - ❤️ very much into Elasticsearch, Docker and Kubernetes stuff
 - > twitter @coderin42
 
